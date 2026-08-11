@@ -23,7 +23,7 @@ para apoiar a tomada de decisões.
 
 ## 6. Armazenamento
 
-O arquivo está armazenado localmente
+data/raw/SampleSuperstore.csv
 
 ## 7. Integridade
 
@@ -31,5 +31,5 @@ Nenhuma alteração será feita no arquivo original
 
 ## 8. Observações
 
-Todos os dados aqui são legítimos e públicos,
-o dataset foi baixado no site oficial, conforme o item 2.
+O dataset foi obtido publicamente por meio da fonte indicada.
+A licença e os termos de uso devem ser consultados na página original.
