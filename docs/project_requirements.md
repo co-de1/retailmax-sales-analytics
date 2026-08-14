@@ -11,7 +11,7 @@ diferentes fontes, dificultando a análise do desempenho comercial.
 
 ### 2. Problema
 
-A equipe de gestão possui dificuldade para responder rapidamente:
+A equipa de gestão possui dificuldade para responder rapidamente:
 
 - Quais regiões apresentam melhor desempenho?
 - Quais produtos geram maior receita?
